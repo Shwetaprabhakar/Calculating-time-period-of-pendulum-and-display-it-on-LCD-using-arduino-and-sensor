@@ -1,0 +1,1 @@
+# Calculating-time-period-of-pendulum-and-display-it-on-LCD-using-arduino-and-sensor
